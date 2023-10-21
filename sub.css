@@ -9,6 +9,10 @@ nav{
 
 .nav-link{
     color:  #FFF1D6;
+}
+
+.nav-link:hover{
+    color:#C17240;
 
 }
 
@@ -23,6 +27,7 @@ nav{
     font-family: 'Coustard', serif;
     font-size: 50px;
     font-weight: bold;
+    color: white;
 }
 
 .name{
